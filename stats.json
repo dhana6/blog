@@ -1,0 +1,56 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-f5ee9132eff018aeaa7f.js",
+      "component---src-pages-index-js-f5ee9132eff018aeaa7f.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-a89a54e030aebc5ed55f.js",
+      "component---src-templates-blog-post-js-a89a54e030aebc5ed55f.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-cfc9dbf8917c3b6effe6.js",
+      "component---src-layouts-index-js-cfc9dbf8917c3b6effe6.js.map"
+    ],
+    "path---index": [
+      "path---index-a4c791dd4e8b26daaf4c.js",
+      "path---index-a4c791dd4e8b26daaf4c.js.map"
+    ],
+    "commons": [
+      "commons-07cc4bd56523cc910c39.js",
+      "commons-07cc4bd56523cc910c39.js.map"
+    ],
+    "path---blog-3": [
+      "path---blog-3-5bbe759d689384cedc0d.js",
+      "path---blog-3-5bbe759d689384cedc0d.js.map"
+    ],
+    "path---blog-1": [
+      "path---blog-1-cb839301da2d78cd46d4.js",
+      "path---blog-1-cb839301da2d78cd46d4.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---blog-2": [
+      "path---blog-2-0235ee350a8a9da10519.js",
+      "path---blog-2-0235ee350a8a9da10519.js.map"
+    ],
+    "app": [
+      "app-09625de6d6ea0e2e4884.js",
+      "app-09625de6d6ea0e2e4884.js.map"
+    ],
+    "path---blog-4": [
+      "path---blog-4-2136dce8ae81196371b4.js",
+      "path---blog-4-2136dce8ae81196371b4.js.map"
+    ]
+  }
+}
